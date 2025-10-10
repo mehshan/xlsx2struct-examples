@@ -3,7 +3,7 @@ module github.com/mehshan/xlsx2struct-examples/salesorders
 go 1.24.6
 
 require (
-	github.com/mehshan/xlsx2struct v1.0.0
+	github.com/mehshan/xlsx2struct v1.0.1
 	github.com/tealeg/xlsx/v3 v3.3.13
 )
 
